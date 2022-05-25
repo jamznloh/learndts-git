@@ -1,1 +1,2 @@
 update lagu 1
+update lagu 2
